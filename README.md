@@ -42,15 +42,8 @@ As an **SDE Intern**, I worked exclusively on the **frontend design and developm
 ## 🌐 Project Links
 
 - **Frontend GitHub Repository**:  
-  https://github.com/bhargab30/DesiQna-Interview-Experiences
-
-- **Live Test Version (Frontend Only)**:  
-  https://test.desiqna.in/
-
-- **Main Website**:  
-  https://www.itjobxs.com
-
-> The original interview experiences page is currently not publicly accessible.  
+  https://github.com/amitkumarmadina/DesiQna-Interview-Experiences-main
+  
 > This repository represents a **frontend duplicate version** created during my internship.
 
 ---
@@ -62,8 +55,3 @@ As an **SDE Intern**, I worked exclusively on the **frontend design and developm
 - CSS3  
 - JavaScript  
 - Bootstrap  
-
----
-
-## 📂 Project Structure
-

@@ -6,9 +6,6 @@ This project is a **fully responsive Interview Experiences Webpage** developed d
 
 The webpage is designed to help job seekers **read and explore interview experiences of different companies**, enabling better preparation for technical and HR interviews.
 
-⚠️ **Note:** My contribution to this project is **strictly limited to frontend development only**.
-
-
 ---
 
 ## 🏢 Organization Details

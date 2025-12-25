@@ -45,6 +45,10 @@ As an **SDE Intern**, I worked exclusively on the **frontend design and developm
 > This repository represents a **frontend duplicate version** created during my internship.
 
 ---
+![First](ScreenShots/First.jpeg)
+![Second](ScreenShots/Second.jpeg)
+![Third](ScreenShots/Third.jpeg)
+
 
 ## 🛠️ Tech Stack Used
 

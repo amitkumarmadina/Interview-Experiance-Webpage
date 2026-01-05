@@ -41,9 +41,11 @@ As an **SDE Intern**, I worked exclusively on the **frontend design and developm
 
 - **Frontend GitHub Repository**:  
  [ https://github.com/amitkumarmadina/DesiQna-Interview-Experiences-main](https://github.com/amitkumarmadina/Interview-Experiance-Webpage)
-  
-> This repository represents a **frontend duplicate version** created during my internship.
 
+- **Live**:  
+ [ https://github.com/amitkumarmadina/DesiQna-Interview-Experiences-main](https://amitkumarmadina.github.io/Interview-Experiance-Webpage/)
+
+> This repository represents a **frontend duplicate version** created during my internship.
 ---
 ![First](ScreenShots/First.jpeg)
 ![Second](ScreenShots/Second.jpeg)
